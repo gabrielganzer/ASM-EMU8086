@@ -13,7 +13,7 @@ This project includes sime small assembly programs developed throughout the Comp
 
 ## DOCUMENTATION
 
-Source files for each program can be found inside the respective folder.
+Source files for each program have the same name as reported above.
 
 ## LICENSE
 
