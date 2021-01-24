@@ -14,7 +14,3 @@ This project includes sime small assembly programs developed throughout the Comp
 ## DOCUMENTATION
 
 Source files for each program have the same name as reported above.
-
-## LICENSE
-
-The source code of the project is licensed under the GPLv3 license, unless otherwise stated. 
